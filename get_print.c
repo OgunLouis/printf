@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * get_print - selects the right printing function
- * depending on the conversion specifier passed to _printf
+ * get_print - selects the right printing function from specifier
+
  * @s: conversion specifier
  *
  * Return: a pointer to the matching printing function
