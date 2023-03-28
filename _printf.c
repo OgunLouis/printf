@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * _printf - produces output based on input
+ * _printf - produces  the output based on input
  * @format: format string containing the chars and specifiers
  * Description: calls the get_print() function that determines
  * which printing function to call

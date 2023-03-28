@@ -4,7 +4,7 @@
  * print_int - prints an integer
  * @l: arguments
  * @f: pointer to the struct flags determining
- * if a flag is passed to _printf
+ * if a flag is passedinto to _printf
  *
  * Return: number of char printed
  */
